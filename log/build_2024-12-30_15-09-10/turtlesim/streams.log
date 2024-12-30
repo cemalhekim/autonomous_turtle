@@ -1,0 +1,34 @@
+[0.344s] Invoking command in '/home/ch/Workspace/autonomous_turtle/build/turtlesim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ch/Workspace/autonomous_turtle/build/turtlesim/build
+[0.480s] running develop
+[0.547s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[0.547s]   self.local_index = Environment(self.shadow_path + sys.path)
+[0.561s] Removing /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim.egg-link (link to .)
+[0.574s] Invoked command in '/home/ch/Workspace/autonomous_turtle/build/turtlesim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ch/Workspace/autonomous_turtle/build/turtlesim/build
+[0.574s] Invoking command in '/home/ch/Workspace/autonomous_turtle/turtlesim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim build --build-base /home/ch/Workspace/autonomous_turtle/build/turtlesim/build install --record /home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log --single-version-externally-managed install_data --force
+[0.688s] running egg_info
+[0.695s] writing ../build/turtlesim/turtlesim.egg-info/PKG-INFO
+[0.696s] writing dependency_links to ../build/turtlesim/turtlesim.egg-info/dependency_links.txt
+[0.696s] writing entry points to ../build/turtlesim/turtlesim.egg-info/entry_points.txt
+[0.696s] writing requirements to ../build/turtlesim/turtlesim.egg-info/requires.txt
+[0.696s] writing top-level names to ../build/turtlesim/turtlesim.egg-info/top_level.txt
+[0.711s] reading manifest file '../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[0.712s] writing manifest file '../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[0.712s] running build
+[0.712s] running build_py
+[0.712s] copying turtlesim/pose_subscribe.py -> /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim
+[0.712s] running install
+[0.715s] running install_lib
+[0.723s] creating /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim
+[0.723s] copying /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim/__init__.py -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim
+[0.723s] copying /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim/pose_subscribe.py -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim
+[0.723s] byte-compiling /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim/__init__.py to __init__.cpython-312.pyc
+[0.723s] byte-compiling /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim/pose_subscribe.py to pose_subscribe.cpython-312.pyc
+[0.723s] running install_data
+[0.723s] copying resource/turtlesim -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/share/ament_index/resource_index/ros2/share
+[0.723s] copying package.xml -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/share/turtlesim
+[0.723s] running install_egg_info
+[0.732s] Copying ../build/turtlesim/turtlesim.egg-info to /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim-0.0.0-py3.12.egg-info
+[0.732s] running install_scripts
+[0.787s] Installing pose_subscribe script to /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/turtlesim
+[0.787s] writing list of installed files to '/home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log'
+[0.800s] Invoked command in '/home/ch/Workspace/autonomous_turtle/turtlesim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim build --build-base /home/ch/Workspace/autonomous_turtle/build/turtlesim/build install --record /home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log --single-version-externally-managed install_data --force
