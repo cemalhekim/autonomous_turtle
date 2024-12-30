@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+resource/turtlesim
+turtlesim/__init__.py
+turtlesim/pose_subscribe.py
+turtlesim.egg-info/PKG-INFO
+turtlesim.egg-info/SOURCES.txt
+turtlesim.egg-info/dependency_links.txt
+turtlesim.egg-info/requires.txt
+turtlesim.egg-info/top_level.txt
+turtlesim.egg-info/zip-safe

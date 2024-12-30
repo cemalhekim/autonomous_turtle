@@ -1,0 +1,19 @@
+[0.341s] Invoking command in '/home/ch/Workspace/autonomous_turtle/turtlesim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim build --build-base /home/ch/Workspace/autonomous_turtle/build/turtlesim/build install --record /home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log --single-version-externally-managed install_data
+[0.455s] running egg_info
+[0.462s] writing ../build/turtlesim/turtlesim.egg-info/PKG-INFO
+[0.463s] writing dependency_links to ../build/turtlesim/turtlesim.egg-info/dependency_links.txt
+[0.463s] writing requirements to ../build/turtlesim/turtlesim.egg-info/requires.txt
+[0.463s] writing top-level names to ../build/turtlesim/turtlesim.egg-info/top_level.txt
+[0.479s] reading manifest file '../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[0.480s] writing manifest file '../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+[0.480s] running build
+[0.480s] running build_py
+[0.480s] running install
+[0.483s] running install_lib
+[0.491s] running install_data
+[0.491s] running install_egg_info
+[0.500s] removing '/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim-0.0.0-py3.12.egg-info' (and everything under it)
+[0.500s] Copying ../build/turtlesim/turtlesim.egg-info to /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim-0.0.0-py3.12.egg-info
+[0.500s] running install_scripts
+[0.558s] writing list of installed files to '/home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log'
+[0.571s] Invoked command in '/home/ch/Workspace/autonomous_turtle/turtlesim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/turtlesim build --build-base /home/ch/Workspace/autonomous_turtle/build/turtlesim/build install --record /home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log --single-version-externally-managed install_data
