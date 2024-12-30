@@ -1,1 +1,0 @@
-/home/ch/Workspace/autonomous_turtle/turtlesim/setup.py

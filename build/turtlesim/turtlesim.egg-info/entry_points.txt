@@ -1,0 +1,2 @@
+[console_scripts]
+pose_subscribe = turtlesim.pose_subscribe:main

@@ -1,0 +1,32 @@
+running develop
+Removing /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim.egg-link (link to .)
+running egg_info
+writing ../build/turtlesim/turtlesim.egg-info/PKG-INFO
+writing dependency_links to ../build/turtlesim/turtlesim.egg-info/dependency_links.txt
+writing entry points to ../build/turtlesim/turtlesim.egg-info/entry_points.txt
+writing requirements to ../build/turtlesim/turtlesim.egg-info/requires.txt
+writing top-level names to ../build/turtlesim/turtlesim.egg-info/top_level.txt
+reading manifest file '../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+writing manifest file '../build/turtlesim/turtlesim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ch/Workspace/autonomous_turtle/build/turtlesim/build
+creating /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib
+creating /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim
+copying turtlesim/__init__.py -> /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim
+copying turtlesim/pose_subscribe.py -> /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim
+running install
+running install_lib
+creating /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim
+copying /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim/__init__.py -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim
+copying /home/ch/Workspace/autonomous_turtle/build/turtlesim/build/lib/turtlesim/pose_subscribe.py -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim
+byte-compiling /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim/pose_subscribe.py to pose_subscribe.cpython-312.pyc
+running install_data
+copying resource/turtlesim -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/share/ament_index/resource_index/ros2/share
+copying package.xml -> /home/ch/Workspace/autonomous_turtle/install/turtlesim/share/turtlesim
+running install_egg_info
+Copying ../build/turtlesim/turtlesim.egg-info to /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/python3.12/site-packages/turtlesim-0.0.0-py3.12.egg-info
+running install_scripts
+Installing pose_subscribe script to /home/ch/Workspace/autonomous_turtle/install/turtlesim/lib/turtlesim
+writing list of installed files to '/home/ch/Workspace/autonomous_turtle/build/turtlesim/install.log'
