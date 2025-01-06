@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating turtlesim.egg-info
+writing turtlesim.egg-info/PKG-INFO
+writing dependency_links to turtlesim.egg-info/dependency_links.txt
+writing entry points to turtlesim.egg-info/entry_points.txt
+writing requirements to turtlesim.egg-info/requires.txt
+writing top-level names to turtlesim.egg-info/top_level.txt
+writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/python3.12/site-packages/turtlesim.egg-link (link to .)
+Installing minimal_node script to /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/turtlesim
+Installing pose_subscribe script to /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/turtlesim
+
+Installed /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim
+running symlink_data
+creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share
+creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index
+creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index
+creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index/ros2
+creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index/ros2/share
+symbolically linking /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/resource/turtlesim -> /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index/ros2/share
+creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/turtlesim
+symbolically linking /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/package.xml -> /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/turtlesim

@@ -19,7 +19,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'pose_subscribe = turtlesim.pose_subscribe:main',  # Correct entry point to your script
+            'pose_subscribe = turtlesim.pose_subscribe:main',  # Ensure this is correct
+            'minimal_node = turtlesim.minimal_node:main',      # Ensure this is correct
         ],
     },
 )

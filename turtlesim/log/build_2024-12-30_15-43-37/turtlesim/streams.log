@@ -1,0 +1,30 @@
+[0.340s] Invoking command in '/home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/build --no-deps symlink_data
+[0.483s] running develop
+[0.552s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:363: UserWarning: Unbuilt egg for pytest-repeat [unknown version] (/usr/lib/python3/dist-packages)
+[0.553s]   self.local_index = Environment(self.shadow_path + sys.path)
+[0.567s] running egg_info
+[0.567s] creating turtlesim.egg-info
+[0.574s] writing turtlesim.egg-info/PKG-INFO
+[0.575s] writing dependency_links to turtlesim.egg-info/dependency_links.txt
+[0.575s] writing entry points to turtlesim.egg-info/entry_points.txt
+[0.575s] writing requirements to turtlesim.egg-info/requires.txt
+[0.575s] writing top-level names to turtlesim.egg-info/top_level.txt
+[0.575s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.591s] reading manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.591s] writing manifest file 'turtlesim.egg-info/SOURCES.txt'
+[0.599s] running build_ext
+[0.599s] Creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/python3.12/site-packages/turtlesim.egg-link (link to .)
+[0.599s] Installing minimal_node script to /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/turtlesim
+[0.599s] Installing pose_subscribe script to /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/turtlesim
+[0.599s] 
+[0.599s] Installed /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim
+[0.599s] running symlink_data
+[0.599s] creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share
+[0.600s] creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index
+[0.600s] creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index
+[0.600s] creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index/ros2
+[0.600s] creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index/ros2/share
+[0.600s] symbolically linking /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/resource/turtlesim -> /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/ament_index/resource_index/ros2/share
+[0.600s] creating /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/turtlesim
+[0.600s] symbolically linking /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/package.xml -> /home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/share/turtlesim
+[0.614s] Invoked command in '/home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ch/Workspace/autonomous_turtle/turtlesim/install/turtlesim/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ch/Workspace/autonomous_turtle/turtlesim/build/turtlesim/build --no-deps symlink_data
